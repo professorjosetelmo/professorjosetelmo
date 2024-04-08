@@ -1,6 +1,6 @@
 ### Hi, I'm Prof. Me. José Telmo 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josetelmo&count_private=true&show_icons=true&theme=merko)](https://github.com/josetelmo/josetelmo)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=professorjosetelmo&count_private=true&show_icons=true&theme=merko)](https://github.com/professorjosetelmo/professorjosetelmo)
 
 - 🔭 I’m currently a professor teaching Digital Marketing, Advertising, and Administration at a higher education level.
 - 👨‍🏫 I teach a variety of subjects including Public Relations, SEO, Web Analytics, UX, Design, Service Marketing, E-commerce, Search Engine Marketing, PPC, and Social Media.
