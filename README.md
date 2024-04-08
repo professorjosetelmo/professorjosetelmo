@@ -37,7 +37,7 @@
 
 - 📚 Passionate about RPG, Fantasy Literature, Science Fiction, Star Wars, Star Trek, Comics, Illustration, and Anime.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josetelmo&layout=compact&hide=java)](https://github.com/josetelmo/josetelmo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorjosetelmo&layout=compact&hide=java)](https://github.com/professorjosetelmo/professorjosetelmo/github-readme-stats)
 
 <!--
 **josetelmo/josetelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
