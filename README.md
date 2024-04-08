@@ -21,6 +21,7 @@
 
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-000000?style=flat&logo=google-analytics)
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-000000?style=flat&logo=google-ads)
+![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-000000?style=flat&logo=google-search-console)
 ![SEO](https://img.shields.io/badge/-SEO-000000?style=flat&logo=seo)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
